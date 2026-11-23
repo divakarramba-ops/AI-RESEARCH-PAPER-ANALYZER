@@ -1,0 +1,8 @@
+{
+  "name": "AI Research Paper Analyzer",
+  "description": "Upload PDF research papers to extract structured insights, ask RAG-grounded questions, compare multiple studies, and download formatted PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
